@@ -45,7 +45,7 @@ The analyst defines the TFN dictionary freely, accommodating both symmetric and
 asymmetric representations of linguistic imprecision for scales of 5, 7, or 10
 points. An example dataset from a real satisfaction survey is included to
 illustrate the full workflow. Detailed documentation and vignettes are available
-at the package repository: https://github.com/muchillin/fcmtfn.
+at the package repository: https://github.com/mushillin/fcmtfn.
 
 # Statement of Need
 
